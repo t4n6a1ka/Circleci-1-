@@ -1,1 +1,2 @@
 install: ./install-dependencies.sh
+{.circleci/config.yml}
