@@ -1,4 +1,4 @@
-/*/
+/*
 jobs:
   build:
     docker:
@@ -15,4 +15,4 @@ jobs:
     steps:
       - run: make test
       - run: make
-/*/
+*/
