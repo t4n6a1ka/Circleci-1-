@@ -1,3 +1,4 @@
+/*
 # ~/.circleci/config.yml
 version: 2
 jobs:
@@ -5,3 +6,4 @@ jobs:
     docker:
       - image: circleci/<language>:<version TAG>
     parallelism: 24
+*/
